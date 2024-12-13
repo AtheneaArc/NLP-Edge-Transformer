@@ -1,0 +1,25 @@
+# Entorno virtual
+venv/
+
+# Archivos de compilación
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Archivos de configuración del editor
+.idea/
+.vscode/
+
+# Archivos de configuración de Jupyter
+.ipynb_checkpoints
+
+# Archivos de dependencias
+*.env
+
+# Archivos de pruebas temporales
+*.log
+
+# Sistema operativo archivos
+.DS_Store
+Thumbs.db
