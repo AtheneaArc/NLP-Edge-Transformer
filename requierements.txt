@@ -1,0 +1,16 @@
+#Biblioteca principal para Deep Learning, usada para redes neuronales y procesamiento en GPU.
+torch==1.10.0         
+#Librería de Hugging Face para trabajar con modelos preentrenados como BERT, GPT, etc.
+transformers==4.11.3   
+#Biblioteca para manipulaciones numéricas, como matrices y álgebra lineal.
+numpy==1.21.4          
+#Herramienta para Machine Learning en Python, utilizada para tareas como clasificación y regresión.
+scikit-learn==0.24.2   
+#Biblioteca para la manipulación y análisis de datos en estructuras como DataFrame.
+pandas==1.3.3          
+#Librería para crear gráficos estáticos, animados e interactivos en Python.
+matplotlib==3.4.3      
+#Basada en matplotlib, usada para hacer visualizaciones estadísticas más atractivas.
+seaborn==0.11.2        
+#Barra de progreso para iteraciones en Python, útil para entrenar modelos y procesos largos.
+tqdm==4.62.3           
