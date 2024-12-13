@@ -1,5 +1,5 @@
 #Biblioteca principal para Deep Learning, usada para redes neuronales y procesamiento en GPU.
-torch==1.10.0         
+torch==2.1.1         
 #Librería de Hugging Face para trabajar con modelos preentrenados como BERT, GPT, etc.
 transformers==4.11.3   
 #Biblioteca para manipulaciones numéricas, como matrices y álgebra lineal.
